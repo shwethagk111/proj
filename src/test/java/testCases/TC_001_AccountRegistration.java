@@ -1,14 +1,19 @@
 package testCases;
 
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
+import io.github.bonigarcia.wdm.WebDriverManager;
 import pageObjects.AccountRegistrationPage;
 import pageObjects.HomePage;
 import testBase.BaseClass;
 
 public class TC_001_AccountRegistration extends BaseClass{
+	
+	ChromeDriver driver=new ChromeDriver();
+
 	
 	@Test(groups={"regression","master"})
 	public void test_accout_Registration()

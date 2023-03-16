@@ -1,4 +1,6 @@
 C:\Users\Vinay Babji\eclipse-workspace\opencart\src\test\java\testCases\TC_001_AccountRegistration.java
+C:\Users\Vinay Babji\eclipse-workspace\opencart\src\test\java\pageObjects\ForgotPassword.java
+C:\Users\Vinay Babji\eclipse-workspace\opencart\src\test\java\pageObjects\ProductDisplay.java
 C:\Users\Vinay Babji\eclipse-workspace\opencart\src\test\java\pageObjects\OrderHistory.java
 C:\Users\Vinay Babji\eclipse-workspace\opencart\src\test\java\utilities\XLUtility.java
 C:\Users\Vinay Babji\eclipse-workspace\opencart\src\test\java\pageObjects\Addcart.java
@@ -8,9 +10,15 @@ C:\Users\Vinay Babji\eclipse-workspace\opencart\src\test\java\utilities\ExtentRe
 C:\Users\Vinay Babji\eclipse-workspace\opencart\src\test\java\testCases\TC_005_Addcart.java
 C:\Users\Vinay Babji\eclipse-workspace\opencart\src\test\java\pageObjects\AccountRegistrationPage.java
 C:\Users\Vinay Babji\eclipse-workspace\opencart\src\test\java\testCases\TC_003_LoginDDT.java
+C:\Users\Vinay Babji\eclipse-workspace\opencart\src\test\java\testCases\TC_009_ForgotPassword.java
 C:\Users\Vinay Babji\eclipse-workspace\opencart\src\test\java\testCases\TC_004Search.java
 C:\Users\Vinay Babji\eclipse-workspace\opencart\src\test\java\pageObjects\SearchPage.java
 C:\Users\Vinay Babji\eclipse-workspace\opencart\src\test\java\testCases\TC_006_OrderHistory.java
+C:\Users\Vinay Babji\eclipse-workspace\opencart\src\test\java\testCases\TC_007_PtoductCompare.java
+C:\Users\Vinay Babji\eclipse-workspace\opencart\src\test\java\testCases\TC_006_ProductCompare.java
+C:\Users\Vinay Babji\eclipse-workspace\opencart\src\test\java\testCases\TC_008_ProductDisplayPage.java
 C:\Users\Vinay Babji\eclipse-workspace\opencart\src\test\java\testCases\TC_002_Login.java
+C:\Users\Vinay Babji\eclipse-workspace\opencart\src\test\java\pageObjects\PtoductCompare.java
+C:\Users\Vinay Babji\eclipse-workspace\opencart\src\test\java\pageObjects\ProductCompare.java
 C:\Users\Vinay Babji\eclipse-workspace\opencart\src\test\java\pageObjects\HomePage.java
 C:\Users\Vinay Babji\eclipse-workspace\opencart\src\test\java\pageObjects\MyAccountPage.java
